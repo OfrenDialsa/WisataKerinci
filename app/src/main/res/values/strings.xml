@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">WisataKerinci</string>
+    <string name="destination">Nama Destinasi</string>
+    <string name="description_short">Deskripsi singkat</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Danau Kerinci</item>
+        <item>Kebun Teh Kayu Aro</item>
+        <item>Air Panas Semurup</item>
+        <item>Gunung Kerinci</item>
+        <item>Air Terjun Telun Berasap</item>
+        <item>Bukit Khayangan</item>
+        <item>Danau Kaco</item>
+        <item>Danau Gunung Tujuh</item>
+        <item>Air Terjun Pancuran Rayo</item>
+        <item>Air Terjun Talang Kemulun</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/danau_kerinci</item>
+        <item>@drawable/kebun_teh</item>
+        <item>@drawable/air_panas</item>
+        <item>@drawable/gunung_kerinci</item>
+        <item>@drawable/air_terjun_telun_berasap</item>
+        <item>@drawable/bukit_khayangan</item>
+        <item>@drawable/danau_kaco</item>
+        <item>@drawable/danau_gunung_tujuh</item>
+        <item>@drawable/air_terjun_pancuran_rayo</item>
+        <item>@drawable/air_terjun_kemulun</item>
+    </integer-array>
+
+
+    <string-array name="data_description">
+            <item>
+                Danau Kerinci, terletak di kaki Gunung Raya, menjadi magnet bagi para wisatawan dengan luas 4.200 Ha dan kedalaman 110 M.
+                Pemandangan indah dan kegiatan seperti memancing dan berkemah membuatnya menjadi tempat yang wajib dikunjungi.
+            </item>
+        <item>
+                Perkebunan Teh Kayu Aro, kebun teh tertua di Indonesia, menawarkan pemandangan indah dengan hamparan pohon teh dan Gunung Kerinci.
+                Pengunjung dapat memetik daun teh langsung dan menikmati keindahan alam sekitar.
+            </item>
+        <item>
+                Air Panas Semurup, yang terletak di Desa Baru Air Hangat, menjadi pilihan menarik dengan titik panas yang dihasilkan dari aktivitas vulkanik.
+                Pengunjung dapat menikmati fasilitas kolam renang dan keindahan alam di sekitarnya.
+            </item>
+        <item>
+                Gunung Kerinci, gunung berapi aktif, menawarkan pendakian yang populer dengan pemandangan Kota Jambi, Padang, dan Bengkulu dari puncaknya.
+                Kawah seluas 400 x 120 meter dan keberadaan Gunung Tujuh menambah daya tarik destinasi ini.
+            </item>
+        <item>
+                Air Terjun Telun Berasap menawarkan panorama alam yang asri. Masyarakat setempat memberikan nama telun berasap karena keunikan air terjun tersebut yang selalu diselimuti kabut air yang seolah-olah menyerupai asap putih, akibat derasnya air yang terhempas ke batu dan menguap. Keunikan lain dari Air Terjun Telun Berasap yaitu adanya sebuah goa yang cukup luas di balik air terjun tersebut. Namun karena derasnya Air Terjun Telun Berasap membuat belum ada orang yang menyelusuri goa tersebut secara menyeluruh. Untuk menikmati keunikan dan pemandangan yang disuguhkan oleh Air terjun Telun Berasap wisatawan dapat memilih beberapa cara pertama yaitu dengan menikmati keindahan dari ketinggian disalah satu pondok yang ada disekitar air terjun. Kedua jika wisatawan cukup berani maka wisatawan juga bisa menikmati keunikan dan keindahan air terjun dengan langsung naik ke atas tepatnya dipinggir tebing Air Terjun Telun Berasap.
+            </item>
+        <item>
+                Bukit Khayangan, julukan "Negeri Di Atas Awan," menawarkan pemandangan indah Kota Sungaipenuh dan sensasi wisata di atas awan.
+                Dengan fasilitas seperti gazebo, spot foto yang bagus, dan taman bermain, ini adalah tempat yang sempurna untuk bersantai.
+            </item>
+        <item>
+                Danau Kaco, dengan air bening dan kebiruan, terletak di ketinggian 1.289 meter di atas permukaan laut.
+                Keindahan danau ini, yang menyimpan misteri kedalamannya, membuatnya menjadi objek wisata yang sangat dicari.</item>
+        <item>
+                Danau Gunung Tujuh, hasil letusan Gunung Tujuh di masa lalu, menawarkan pendakian dengan pemandangan spektakuler dan keberadaan tujuh puncak gunung di sekitarnya. Seperti namanya, danau gunung tujuh dikelilingi tujuh puncak gunung di Jambi.
+            Tidak heran kalau tempat ini menjadi destinasi wisata yang menawarkan banyak panorama keindahan. Bagi pendaki gunung, Kerinci mungkin menjadi tujuan utama karena gunung tersebut merupakan gunung aktif tertinggi di Indonesia [3805 mdpl], tetapi bagi wisatawan yang ingin sekadar menikmati keindahan alam Kabupaten Kerinci, Danau Gunung Tujuh bisa menjadi pertimbangan sebagai tujuan wisata.
+            </item>
+        <item>
+                Air Terjun Pancaro Rayo adalah salah satu Air Terjun tertinggi di Desa Koto Tuo Kecamatan Keliling Danau, Kabupaten Kerinci, Provinsi Jambi, yakni dengan ketinggian kurang lebih 150 meter. Air Terjun ini berada di pulau Tengah, lokasi nya pun cukup menantang yakni berada jauh di dalam hutan yang masih sangat Asri dan Alami. Daya tarik dari air terjun ini adalah hujan embun yang tercipta akibat dari ketinggiannya. Bahkan para pengunjung dapat merasakan embunnya di jarak kurang lebih 2 meter dari lokasi. Untuk dapat melihat ketinggian air terjunnya para pengunjung harus memutar kepala hingga 90 derajat ke atas.
+        </item>
+        <item>
+                Air Terjun Talang Kemulun salah satu air terjun yang ada di kabupaten kerinci, air terjun ini biasa disebut juga dengan Air Terjun Lembah Khayangan, karena banyak yang menyebutkan bahwa air terjun ini merupakan surga yang tersembunyi.
+                Hanya saja air terjun ini tidak terdapat kolam alami yang lebar di bawahnya, sehingga kita tidak bisa melakukan aktivitas berenang disini, Akan tetapi aktifitas mandi seperti pada sebuah pancuran bisa dilakukan disini. Dan juga bisa merasakan kesegaran dan kesejukan air yang mengguyur tubuh dari kepala hingga ke seluruh tubuh bisa sepuasnya dilakukan.
+        </item>
+    </string-array>
+
+    <string-array name="data_location">
+            <item>
+                Danau Kerinci, Kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                Kecamatan Kayu Aro Barat, Kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                Kec. Air Hangat, Kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                Kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                kec. Gunung Tujuh, kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                Renah Kayu Embun, Kumun Debai, Kota Sungai Penuh, Jambi
+            </item>
+        <item>
+                Dusun Baru Lempur, Gunung Raya, Kabupaten Kerinci, Jambi</item>
+        <item>
+                Danau, Gunung Tujuh, Kabupaten Kerinci, Jambi
+            </item>
+        <item>
+                Kec. Keliling Danau, Kabupaten Kerinci, Provinsi Jambi
+        </item>
+        <item>
+            Kabupaten Kerinci, Provinsi Jambi
+        </item>
+    </string-array>
+
+    <string-array name="data_kode_pos">
+            <item>
+                37163
+            </item>
+        <item>
+                37166
+            </item>
+        <item>
+                37163
+            </item>
+        <item>
+                 37163
+            </item>
+        <item>
+                27778
+            </item>
+        <item>
+                37111
+            </item>
+        <item>
+                37111
+        </item>
+        <item>
+                37163
+            </item>
+        <item>
+                27778
+        </item>
+        <item>
+            37163
+        </item>
+    </string-array>
+
+
+    <string name="about_page">About</string>
+    <string name="judul">Judul</string>
+    <string name="desc">Deskripsi:</string>
+    <string name="isi">is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using </string>
+    <string name="share">SHARE</string>
+
+</resources>
